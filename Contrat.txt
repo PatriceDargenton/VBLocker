@@ -1,0 +1,40 @@
+"CONTRAT D'UTILISATION DU LOGICIEL BIGSOFT DE BIGROSOFT
+
+La présente licence d'utilisation constitue un acte juridique entre vous, acquéreur du logiciel et utilisateur du programme et Bigrosoft.
+Avant toute utilisation du logiciel, vous devez accepter les clauses de ce contrat et vous engagez à le respecter.
+En cas de désaccord,  vous ne devez en aucun cas utiliser le logiciel, et retourner le produit complet au fournisseur qui vous l'a vendu pour obtenir le remboursement, le cas échéant.
+
+1. DROIT D'UTILISATION
+Bigrosoft ne vend pas de droit sur le programme, mais octroie à l'acquéreur le droit de l'utiliser dans le cadre de la licence d'utilisation, et conserve expressément le droit de propriété du programme et de sa documentation.
+Contre le paiement des frais de licence, inclus dans le prix du produit et l'acceptation des termes de la licence d'utilisation, Bigrosoft se réserve tous les droits non expressément octroyés à l'acquéreur.
+La licence principale du programme est accordée pour un utilisateur exclusif.
+L'utilisation simultanée du logiciel sur plusieurs postes situés dans les mêmes bureaux fait l'objet de licences supplémentaires (licences secondaires), chaque poste est muni de son propre système de protection (code d'activation) valide uniquement sur celui-ci.
+Toutefois, pour parer à toute éventualité de défaut d'installation ou de panne de votre matériel informatique, il vous est possible d'obtenir une seconde clé d'activation, mais cette possibilité se limite à deux clés par licence. Toute installation supplémentaire nécessitera l'acquisition d'une nouvelle licence au même prix que la première.
+Les organisations en réseau sont soumises aux mêmes conditions.
+
+2. COPYRIGHT, MARQUES ET DROIT DE PROPRIETE INTELLECTUELLE
+L'acquéreur reconnaît que la présente ne constitue pas une vente de programme d'origine, ni sa documentation, et que Bigrosoft, conserve le droit de propriété du programme et de sa documentation.
+L'acquéreur s'interdit de supprimer les références aux marques Bigrosoft au logiciel utilisé et aux autres droits de propriété apposés par Bigrosoft tant sur le programme que sur la documentation annexe.
+
+3. RESTRICTION DE REPRODUCTION
+Le programme et sa documentation sont protégés par la législation sur les droits d'auteurs.
+Aucune partie de ce programme, ni de sa documentation, ne peut être copiée, photocopiée, reproduite, traduite, distribuée ou enregistrée par quelque procédé que ce soit, qu'il soit électronique, mécanique, magnétique ou autre, sans l'autorisation expresse écrite de Bigrosoft.
+
+4. RESTRICTION DE TRANSFERT
+La licence d'utilisation du programme est octroyée à titre personnel, ne peut être transférée, même à titre gratuit, à qui que ce soit sans le consentement écrit préalable de Bigrosoft.
+
+5. GARANTIE LIMITEE
+Bigrosoft ne garantit pas le fonctionnement du programme dans tous les environnements matériels et programmes.
+Bien que Bigrosoft ait testé le programme et apporté le maximum de soin à la rédaction de sa documentation, Bigrosoft livre le programme en l'état ou il se trouve et n'assure aucune garantie relative à sa qualité, à ses résultats ou à son utilisation pour une activité particulière.
+Bigrosoft ne sera, en aucun cas, responsable des dommages de toutes sortes, directs, indirects ou accessoires, résultant de l'utilisation, ou de l'impossibilité d'utiliser le programme ou sa documentation.
+
+6. RESILIATION
+La présente licence d'utilisation sera résiliée automatiquement et de plein droit aux torts et griefs de l'acquéreur au cas où l'acquéreur ne se conformerait pas aux termes de la licence d'utilisation.
+
+7. EN CAS DE LITIGE, LE TRIBUNAL COMPETENT SERA CELUI DE PARIS (FRANCE)
+
+Pour toutes précisions complémentaires sur la licence d'utilisation du programme, veuillez écrire à : ventes@bigrosoft.com ou sinon :
+
+Bigrosoft
+Silicon Valley (mais pas celle des USA)
+The United States of Europa
